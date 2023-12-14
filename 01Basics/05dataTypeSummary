@@ -1,0 +1,9 @@
+//one the basis of storing data in memory data types 
+//1. Primitive (Call by value)
+// 7 types : String, Null, Number , Boolean, Undefined, Symbol, BigInt
+
+//2. Non Premitive(Call by reference)
+//Array , Objects , Functions
+const cricketer = ["sakib", "tamim", "mushfiq" , "mahmudullah", "taskin"]
+
+

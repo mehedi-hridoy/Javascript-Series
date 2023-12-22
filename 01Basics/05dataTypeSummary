@@ -7,3 +7,22 @@
 const cricketer = ["sakib", "tamim", "mushfiq" , "mahmudullah", "taskin"]
 
 
+//Stack (Primitive) +++++++ Heap (Non Premitive)
+
+let myYoutubename = "Mehedi Hasan Hridoy"
+let anothername = "ChaiOrCode"
+
+console.log(myYoutubename)
+console.log(anothername)
+
+let userOne = {
+    email: "user@google.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.email = "hridoy@google.com"
+
+console.log(userOne.email)
+console.log(userTwo.email)

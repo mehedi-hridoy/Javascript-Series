@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button {
+   height: 120px;
+   width: 120px;
+   display: inline-block;
+   margin: 10px solid white;
+
+}
+#red {
+    background-color: red;
+}
+#purple {
+    background-color: purple;
+}
+
+#blue {
+    background-color: blue;
+}
+#green {
+    background-color: green;
+}
+#white {
+    background-color: white;
+}
+#pink {
+    background-color: pink;
+}
+

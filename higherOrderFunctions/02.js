@@ -11,3 +11,8 @@ function findSum(arr) {
 }
 
 console.log(findSum(arr)); 
+
+const output = arr.reduce(function (accumulator, currentValue) {
+    return accumulator + currentValue; 
+}, 0);
+console.log(output);

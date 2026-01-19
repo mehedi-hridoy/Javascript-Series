@@ -6,3 +6,4 @@ var argumentsLength = function(...args) {
     return args.length
 };
 
+*/ another day of wasting 
